@@ -9,6 +9,7 @@
   "COMMUNITY": "Community",
   "SAVE_AND_QUIT": "Save and Quit",
   "LOG_OUT": "Log Out",
+  "RUN_HISTORY": "Run History",
   "slot": "Slot {{slotNumber}}",
   "importSession": "Import Session",
   "importSlotSelect": "Select a slot to import to.",
